@@ -1,7 +1,6 @@
 class Calculadora:
     def adicionar(self, a, b):
-        # TODO: Implemente a adição
-        pass
+        return a + b
 
     def subtrair(self, a, b):
         # TODO: Implemente a subtração
