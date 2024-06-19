@@ -4,8 +4,7 @@ class Calculadora:
         pass
 
     def subtrair(self, a, b):
-        # TODO: Implemente a subtração
-        pass
+        return a - b
 
     def multiplicar(self, a, b):
         # TODO: Implemente a multiplicação
