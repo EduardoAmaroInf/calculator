@@ -3,8 +3,7 @@ class Calculadora:
         return a + b
 
     def subtrair(self, a, b):
-        # TODO: Implemente a subtração
-        pass
+        return a - b
 
     def multiplicar(self, a, b):
         return a * b
